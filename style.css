@@ -1,0 +1,25 @@
+h3 {
+  color: #0109f4; 
+  
+   }
+
+h1 {
+  
+  
+  font:  Verdana;
+}
+body{
+  background-color: #fbf8da;
+}
+hr {
+  
+  width: 50%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  
+}
+td {
+  font-size: 120%;
+}
