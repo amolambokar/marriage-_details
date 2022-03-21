@@ -45,7 +45,7 @@ div {
 }
 .stylish {
   position: absolute;
-  bottom: 50px;
+  top: 100px;
   right: 100px;
 }
 .simple {
