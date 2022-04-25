@@ -32,7 +32,8 @@ td {
 .marriage_pic {
   position: relative;
   left: 300px;
-  bottom: 400px
+  bottom: 400px;
+  border-radius:300px;
 }
 h3:hover {
   color: #cd5b83; 
