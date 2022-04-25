@@ -9,6 +9,9 @@ h1 {
   font-family: 'Hurricane', cursive
   font-size: 200px
   }
+h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
 body{
   background-color: #fafdff;
 }
@@ -28,7 +31,7 @@ td {
 }
 .marriage_pic {
   position: relative;
-  left: 200px;
+  left: 300px;
   bottom: 400px
 }
 h3:hover {
